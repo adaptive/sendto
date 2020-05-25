@@ -1,0 +1,24 @@
+{
+  "name": "@adaptive/sendto",
+  "version": "0.1.0",
+  "description": "send messages to messaging platforms",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaptive/sendto.git"
+  },
+  "keywords": [
+    "javascript",
+    "telegram",
+    "slack"
+  ],
+  "author": "Hugo Romano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adaptive/sendto/issues"
+  },
+  "homepage": "https://github.com/adaptive/sendto#readme"
+}
