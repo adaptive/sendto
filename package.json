@@ -15,6 +15,7 @@
     "telegram",
     "slack"
   ],
+  "files": [],
   "author": "Hugo Romano",
   "license": "MIT",
   "bugs": {
